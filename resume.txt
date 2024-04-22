@@ -1,1 +1,3 @@
-example content
+자격증 : 정보처리기사, OPIc
+대외활동 : 나띵
+사용기술 : java, spring, mysql, docker
